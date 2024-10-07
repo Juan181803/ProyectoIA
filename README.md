@@ -2,6 +2,11 @@
 
 Este proyecto implica desarrollar un sistema que no solo detecte objetos en escenas de vigilancia (personas, carros, etc.), sino que también pueda analizar patrones de comportamiento para identificar acciones como caminar, correr, sentarse o comportamientos sospechosos. Esto nos permitirá tener un sistema de vigilancia mucho más avanzado y robusto, pues se espera que con la detección de estos comportamientos sospechosos se pueda hacer seguimiento o vigilancia de una persona.
 
+Integrantes :
+ - Juan Felipe Ramirez A00382637
+ - Collin Gonzalez 
+
+
 ## 1. Pregunta de investigación
 **Pregunta principal**: ¿Cómo podemos desarrollar un sistema eficiente en tiempo real para detectar múltiples objetos y reconocer comportamientos humanos en videos de vigilancia mediante técnicas de visión por computadora y aprendizaje automático?
 
