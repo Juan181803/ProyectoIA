@@ -40,3 +40,7 @@ Los resultados del modelo SVM muestran un rendimiento sobresaliente con un accur
 
 ## 4. Conclusiones
 El preprocesamiento exhaustivo y la generación de características adicionales han permitido obtener un modelo robusto para la clasificación de poses y acciones. El modelo SVM muestra un excelente rendimiento general, aunque hay espacio para mejoras en la distinción de acciones estáticas.
+
+## 5. Referencias
+
+[https://es.mathworks.com/help/signal/ref/sgolayfilt.html]
