@@ -1,0 +1,57 @@
+# Entorno virtual
+venv/
+env/
+ENV/
+
+# Archivos de Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Archivos de IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+.project
+.pydevproject
+.settings/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de datos y modelos (opcional, comenta si quieres versionar estos)
+*.csv
+*.h5
+*.pkl
+*.pth
+*.onnx
+*.tflite
+
+# Archivos de video (opcional, comenta si quieres versionar estos)
+*.mp4
+*.avi
+*.mov
+*.wmv
+
+# Archivos de logs
+*.log
+logs/
