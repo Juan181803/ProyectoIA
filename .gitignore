@@ -38,14 +38,6 @@ wheels/
 .DS_Store
 Thumbs.db
 
-# Archivos de datos y modelos (opcional, comenta si quieres versionar estos)
-*.csv
-*.h5
-*.pkl
-*.pth
-*.onnx
-*.tflite
-
 # Archivos de video (opcional, comenta si quieres versionar estos)
 *.mp4
 *.avi
