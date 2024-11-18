@@ -4,7 +4,7 @@ Este proyecto implica desarrollar un sistema que no solo detecte objetos en esce
 
 Integrantes :
  - Juan Felipe Ramirez A00382637
- - Collin Gonzalez 
+ - Collin Gonzalez - A00382429
 
 
 ## 1. Pregunta de investigación
